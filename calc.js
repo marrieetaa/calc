@@ -9,3 +9,5 @@ if(y === 0){
 }else {
   console.log( x / y);
 }
+
+console.log('Developer 1')
